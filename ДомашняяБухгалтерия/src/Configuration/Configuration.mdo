@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c75c8cef-411c-4297-a3b7-752c8f9e5070">
+  <name>ДомашняяБухгалтерия</name>
+  <synonym>
+    <key>ru</key>
+    <value>Домашняя бухгалтерия</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="4f8e712a-06d4-4d35-b90a-087d8cf69779"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="26ade4e8-e7d0-491b-a202-3c26e894fe45"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="d2795478-62b3-419a-969e-363beb6f16ba"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="c9d9412c-5462-49af-8732-5af0ad28b1b0"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="0cfe786d-231d-4315-a705-cb38c366e6b2"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="440aeb39-61d1-4e4f-bb46-37a0a667959d"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="caae4420-9ffd-4c56-a514-925594b1aab8"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>Kalita.Victor</vendor>
+  <version>0.0.0</version>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <copyright>
+    <key>ru</key>
+    <value>Kalita.Victor</value>
+  </copyright>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.23</compatibilityMode>
+  <languages uuid="4ad8e958-2f72-4934-8949-c2126d3605d0">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
